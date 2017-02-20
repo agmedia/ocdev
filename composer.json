@@ -1,9 +1,9 @@
 {
-	"name": "opencart/opencart",
+	"name": "agmedia/ocdev",
     "type": "project",
     "description": "OpenCart",
-    "keywords": ["opencart", "ecommerce", "framework", "opensource"],
-    "homepage": "http://www.opencart.com",
+    "keywords": ["opencart", "ecommerce", "testing", "gittest"],
+    "homepage": "http://www.agmedia.hr",
     "license": "GPL-3.0+",
     "require": {
         "cardinity/cardinity-sdk-php": "^1.0",
